@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+}
+.imag{
+    width: 100%;
+    
+}
+
+.im{
+    margin-top:20px;
+}
+.bac{
+    z-index:3;
+}
+.ima{
+   
+    width: 100%;
+}
+.fd{
+    height: 300px;
+    width: 100px;
+}
+.krasota{
+    height: 100px;
+}
+.biger{
+    font-size:40px;
+}
